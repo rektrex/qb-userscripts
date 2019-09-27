@@ -16,6 +16,6 @@ Userscripts for qutebrowser
   
 * Optionally, bind the userscript(s) to a key(through the browser UI or `config.py`). Example:
 
-```
-config.bind('<Ctrl-0>', 'spawn --userscript username-hider.js')
-```
+  ```
+  config.bind('<Ctrl-0>', 'spawn --userscript username-hider.js')
+  ```
