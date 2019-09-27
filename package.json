@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rektrex/qb-userscripts/issues"
   },
-  "homepage": "https://github.com/rektrex/qb-userscripts#readme"
+  "homepage": "https://github.com/rektrex/qb-userscripts#readme",
+  "dependencies": {
+    "qutejs": "^1.1.1"
+  }
 }
