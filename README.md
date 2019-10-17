@@ -3,6 +3,8 @@ Userscripts for qutebrowser
 
 * __username-hider__: Replace all instances of the logged in reddit username with the text "\~anonymous\~"
 
+* __old-reddit__: Open current reddit url in old reddit
+
 # Installation
 
 * Download required userscript(s), and `package.json` to `~/.local/share/qutebrowser/userscripts`.
